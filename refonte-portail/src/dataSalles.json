@@ -1,0 +1,33 @@
+[
+    {
+        "salles": "E 105",
+        "dispoSalles": "8h00 - 14h00"
+    },    {
+        "salles": "E 106",
+        "dispoSalles": "8h00 - 14h00"
+    },
+    {
+        "salles": "E 206",
+        "dispoSalles": "8h00 - 21h00"
+    },
+    {
+        "salles": "E 207/A",
+        "dispoSalles": "8h00 - 9h00"
+    },
+    {
+        "salles": "E 207/B",
+        "dispoSalles": "8h00 - 9h00"
+    },
+    {
+        "salles": "E 209",
+        "dispoSalles": "8h00 - 21h00"
+    },
+    {
+        "salles": "E 302",
+        "dispoSalles": "8h00 - 14h00"
+    },
+    {
+        "salles": "E 406",
+        "dispoSalles": "8h00 - 14h00"
+    }
+]

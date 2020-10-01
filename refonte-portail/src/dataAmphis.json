@@ -1,0 +1,18 @@
+[
+    {
+        "amphis": "Amphi A",
+        "dispoAmphis": "8h00 - 9h30"
+    },
+    {
+        "amphis": "Amphi B",
+        "dispoAmphis": "8h00 - 10h45"
+    },
+    {
+        "amphis": "Amphi C",
+        "dispoAmphis": "8h00 - 12h00"
+    },
+    {
+        "amphis": "Amphi G",
+        "dispoAmphis": "8h45 - 12h00"
+    }
+]
