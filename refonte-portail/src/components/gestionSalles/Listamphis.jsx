@@ -1,6 +1,6 @@
 import React from 'react';
 import Amphis from './Amphis.jsx';
-import '../styles/cardSalles.css';
+import '../../styles/cardSalles.css';
 
 import { Container, Row } from 'react-bootstrap';
 

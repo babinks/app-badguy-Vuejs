@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/cardSalles.css';
+import '../../styles/cardSalles.css';
 
 
 const Salles = ({salles, dispoSalles})=>( 
