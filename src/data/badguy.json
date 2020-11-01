@@ -1,0 +1,133 @@
+{
+    "name": "GTM",
+    "Traficant": [
+      {
+        "name": "Pablo Escobar",
+        "Fortune": "59 000 000 000 $",
+        "birthDate": "01/12/49",
+        "Role": "Chief Cartel de Medellin",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Gilberto Rodriguez-Orejuela",
+        "Fortune": "10 000 000 000",
+        "birthDate": "30/01/39",
+        "Role": "Chief Cartel de Cali",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Jose Santacruz-Londono",
+        "Fortune": "?",
+        "birthDate": "01/10/43",
+        "Role": "Chief Cartel de Cali",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Joaquin Archivaldo Guzman El Chapo",
+        "Fortune": "1 000 000 000",
+        "birthDate": "04/04/57",
+        "Role": "Chief Cartel de Sinaloa",
+        "Statue": "Alive"
+      },
+      {
+        "name": "Dawood Ibrahi",
+        "Fortune": "7 000 000 000",
+        "birthDate": "26/12/55",
+        "Role": "Chief Indian",
+        "Statue": "Alive"
+      },
+      {
+        "name": "Amado Carillo Fuentes",
+        "Fortune": "25 000 000 000",
+        "birthDate": "17/12/56",
+        "Role": "Chief Cartel de Juarez",
+        "Statue": "Dead"
+      },
+      {
+        "name": "George Jung",
+        "Fortune": "100 000 000",
+        "birthDate": "06/08/42",
+        "Role": "Traficant",
+        "Statue": "Alive"
+      },
+      {
+        "name": "Chang Chi-Fu",
+        "Fortune": "?",
+        "birthDate": "17/02/34",
+        "Role": "Traficant",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Frank Lucas",
+        "Fortune": "52 000 000",
+        "birthDate": "09/12/30",
+        "Role": "Traficant",
+        "Statue": "Dead"
+      }
+    ],
+    "Gangster":[
+      {
+        "name": "Al capone",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Gilberto Rodriguez-Orejuela",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Jose Santacruz-Londono",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Joaquin Archivaldo Guzman El Chapo",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Dawood Ibrahi",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Alive"
+      },
+      {
+        "name": "Amado Carillo Fuentes",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "George Jung",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Chang Chi-Fu",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      },
+      {
+        "name": "Frank Lucas",
+        "Fortune": "2 000 000",
+        "birthDate": "15/12/86",
+        "Role": "Chief",
+        "Statue": "Dead"
+      }
+    ]
+  }
